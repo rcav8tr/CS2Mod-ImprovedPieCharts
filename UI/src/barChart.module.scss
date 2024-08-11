@@ -1,0 +1,11 @@
+﻿// For bar chart, use different margins than game's default pie chart.
+.bar {
+    display:         flex;
+    justify-content: center;
+    align-items:     center;
+
+    margin-top:    5rem;
+    margin-bottom: 5rem;
+    margin-left:   0rem;
+    margin-right:  0rem;
+}
