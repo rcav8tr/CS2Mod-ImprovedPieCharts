@@ -56,17 +56,17 @@ Reset all chart settings to their default values.
 The mod is translated into all the languages supported by the base game.
 
 There are no known mods with which this mod is incompatible.
+
+This mod can be safely disabled or unsubscribed at any time.
 </LongDescription>
 
     <!-- Thumbnail. -->
     <Thumbnail Value="Properties/Thumbnail.png" />
 
     <!-- Screenshot.  Copied from Screenshots folder.  Include no spaces in file names.  Max file size is 2.1MB.  Can be set multiple times. -->
-    <Screenshot Value="Properties\Screenshots\10PieChartDefault.png" />
-    <Screenshot Value="Properties\Screenshots\20PieChartModified.png" />
-    <Screenshot Value="Properties\Screenshots\30BarChart.png" />
-    <Screenshot Value="Properties\Screenshots\40NoChart.png" />
-    <Screenshot Value="Properties\Screenshots\50Settings.png" />
+    <Screenshot Value="Properties\Screenshots\10PieChartsBaseGameModified.png" />
+    <Screenshot Value="Properties\Screenshots\20BarChartNoChart.png" />
+    <Screenshot Value="Properties\Screenshots\30Settings.png" />
 
 
     <!-- Tag.  Can be set multiple times. -->
@@ -76,7 +76,7 @@ There are no known mods with which this mod is incompatible.
     <ForumLink Value="" />
 
     <!-- Version of the mod.  Copied from assembly Version. -->
-    <ModVersion Value="1.0.0" />
+    <ModVersion Value="1.0.1" />
 
     <!-- Recommended version of the base game to use the mod. -->
     <GameVersion Value="1.1.*" />
@@ -86,7 +86,7 @@ There are no known mods with which this mod is incompatible.
 
     <!-- Change log.  Copied from ChangeLog.md file.  Supports minimal markdown subset. -->
     <ChangeLog>
-- Initial release.
+- Update Only Published Configuration
 </ChangeLog>
 
     <!-- External links. Supported types are discord, github, youtube, twitch, x, paypal, patreon.  Can be set multiple times. -->
