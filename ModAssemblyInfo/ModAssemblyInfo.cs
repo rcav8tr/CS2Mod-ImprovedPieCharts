@@ -10,6 +10,6 @@ namespace ImprovedPieCharts
     public class ModAssemblyInfo
     {
         public const string Name        = "ImprovedPieCharts";
-        public const string Version     = "1.0.0";
+        public const string Version     = "1.0.1";
     }
 }
